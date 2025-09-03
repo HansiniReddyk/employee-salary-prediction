@@ -1,0 +1,11 @@
+YearsExperience,Education,JobRole,Department,HoursPerWeek,Location,Salary
+1,Bachelors,Junior Developer,IT,40,Hyderabad,320000
+2,Bachelors,Junior Developer,IT,42,Bengaluru,380000
+3,Masters,Data Analyst,IT,40,Pune,520000
+5,Bachelors,Data Analyst,IT,45,Hyderabad,600000
+7,Masters,Senior Developer,IT,48,Bengaluru,950000
+10,Masters,Team Lead,IT,50,Chennai,1200000
+4,Bachelors,HR Executive,HR,40,Hyderabad,450000
+6,Masters,HR Manager,HR,45,Hyderabad,700000
+2,Bachelors,Accountant,Finance,40,Chennai,380000
+8,Masters,Data Scientist,IT,50,Bengaluru,1500000
